@@ -1,0 +1,1 @@
+# zaman-serisi-analizi-sekil-1-13

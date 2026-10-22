@@ -1,7 +1,6 @@
 # Python ile Zaman Serileri Analizi Dersi Ödevi — Şekil 1.13
 
-**Adı Soyadı:** Sadettin Çelik  
-**Okul Numarası:** 2022140006  
+ 
 **Konu:** Standart Normal Rastgele Yürüyüş (*Random Walk*) Serisinin Üretilmesi, Gecikme İşlemcisi ($B$), Fark İşlemcisi ($\Delta$), ACF Grafikleri ve Durağanlık İncelemesi
 
 ## 1. Veri Üretimi ve Orijinal Zaman Serisi Grafiği (Şekil 1.13)
